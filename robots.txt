@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahpuagahba.itblues.pl/sitemap.xml
